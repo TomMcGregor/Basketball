@@ -1,6 +1,6 @@
 import lejos.robotics.subsumption.Behavior;
 
-public class SeeHoop implements Behavior {
+public class ScanHoop implements Behavior {
 
 	public boolean takeControl() {
 
