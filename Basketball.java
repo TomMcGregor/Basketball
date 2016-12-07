@@ -75,7 +75,7 @@ public class Basketball {
 
 		Behavior b3 = new DetectHoop();
 
-		Behavior b4 = new SeeHoop();
+		Behavior b4 = new ScanHoop();
 
 		Behavior b5 = new Fire();
 
